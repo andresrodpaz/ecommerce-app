@@ -169,10 +169,3 @@ For questions or issues:
 - Check the documentation in `/docs`
 - Review existing test examples
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-**Built with ❤️ for QA Excellence**
